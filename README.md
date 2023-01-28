@@ -29,7 +29,7 @@
   <body background="images/ZOE.png">
     <div class="LMFAO"><h1 style="color: pink" font-family>CRUSH KITA</h1></div>
     <br />
-    <img src="images/kermit-kermit-love.gif" alt="" />
+    <img src="https://media.tenor.com/s--312__jnoAAAAC/kermit-kermit-love.gif" alt="" />
     <br />
     <div class="lol">
       <p>
